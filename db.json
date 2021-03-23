@@ -1,0 +1,60 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Teste 1",
+      "descricao": "Descrição teste 1.",
+      "imagem": "imagem1.jpg",
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Teste 2",
+      "descricao": "Descrição teste 2.",
+      "imagem": "imagem2.jpg",
+      "categoria_id": 1
+    },
+    {
+      "id": 3,
+      "nome": "Teste 3",
+      "descricao": "Descrição teste 3.",
+      "imagem": "imagem3.jpg",
+      "categoria_id": 2
+    },
+    {
+      "id": 4,
+      "nome": "Teste 4",
+      "descricao": "Descrição teste 4.",
+      "imagem": "imagem4.jpg",
+      "categoria_id": 1
+    },
+    {
+      "id": 5,
+      "nome": "Teste 5",
+      "descricao": "Descrição teste 5.",
+      "imagem": "imagem5.jpg",
+      "categoria_id": 2
+    },
+    {
+      "id": 6,
+      "nome": "Teste 6",
+      "descricao": "Descrição teste 6.",
+      "imagem": "imagem6.jpg",
+      "categoria_id": 3
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Lubrificantes"
+    },
+    {
+      "id": 2,
+      "nome": "Limpador"
+    },
+	{
+      "id": 3,
+      "nome": "Tinta"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{"Produtos": [
+	{
+		"ID":1,
+		"Nome": "Teste 1",
+		"Descricao":"Produto de teste 1",
+		"Categoria":"Óleo",
+		"Imagem":"imagem1.jpg"
+	},
+	{
+		"ID":2,
+		"Nome": "Teste 2",
+		"Descricao":"Produto de teste 2",
+		"Categoria":"Limpador",
+		"Imagem":"imagem2.jpg"
+	},
+	{
+		"ID":3,
+		"Nome": "Teste 3",
+		"Descricao":"Produto de teste 3",
+		"Categoria":"Limpador",
+		"Imagem":"imagem3.jpg"
+	},
+	{
+		"ID":4,
+		"Nome": "Teste 4",
+		"Descricao":"Produto de teste 4",
+		"Categoria":"Limpador",
+		"Imagem":"imagem4.jpg"
+	},
+	{
+		"ID":5,
+		"Nome": "Teste 5",
+		"Descricao":"Produto de teste 5",
+		"Categoria":"Lubrificante",
+		"Imagem":"imagem5.jpg"
+	}
+]
+}
